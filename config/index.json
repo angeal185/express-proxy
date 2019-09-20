@@ -1,0 +1,10 @@
+{
+  "port": 7777,
+  "got": {
+    "timeout": {
+      "request": 5000,
+      "requestTry": 1000
+    },
+    "retries": 20
+  }
+}
